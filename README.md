@@ -3,9 +3,10 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home_screen.png" width="200"/>
-  <img src="screenshots/empty_home_screen.png" width="200"/>
-  <img src="screenshots/create_note.png" width="200"/>
+   <img src="screenshots/home_screen.png" width="200"/>
+   <img src="screenshots/empty_home_screen.png" width="200"/>
+   <img src="screenshots/create_note.png" width="200"/>
+   <img src="screenshots/update_note.png" width="200"/>
 </p>
 
 ## Description
